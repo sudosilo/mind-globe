@@ -3,4 +3,3 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "node index.js"
-rootDirectory = "backend"
