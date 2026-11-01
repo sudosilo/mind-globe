@@ -8,6 +8,6 @@ Live at ming-globe.vercel.app
 
 This app is checked every morning by Control Troll.
 
-Latest change. Mountains now rise from note length. Connections between notes show with airstrips and planes.
+Latest change. 2026-10-31, v2026.10.31. Added world presets, so you can start the globe from Earth continents or a checkerboard.
 
 See CHANGELOG.md for the full history.
